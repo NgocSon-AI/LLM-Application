@@ -1,1 +1,1 @@
-# LLM-Application
+# Sun Deploying RAG Application using AWS(aws, lambda, aws, ECR), Langchain, HuggingFace, Docker
