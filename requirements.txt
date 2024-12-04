@@ -1,0 +1,8 @@
+langchain       # Hỗ trợ phát triển ứng dụng AI, NLP
+langchainhub    # Quản lý và chia sẻ thành phần ứng dụng
+bs4             # Phân tích trích xuất dữ liệu từ HTML và XML
+tiktoken        # Xử lý và giải mã token
+openai          # Hỗ trợ build app
+boto3==1.34.37  # Tương tác với AWS
+langchain_community     # Cung cấp tài nguyên và công cụ
+chromadb    #  Lưu trữ truy vấn các vector 
