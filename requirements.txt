@@ -6,3 +6,4 @@ openai          # Hỗ trợ build app
 boto3==1.34.37  # Tương tác với AWS
 langchain_community     # Cung cấp tài nguyên và công cụ
 chromadb    #  Lưu trữ truy vấn các vector 
+awscli
